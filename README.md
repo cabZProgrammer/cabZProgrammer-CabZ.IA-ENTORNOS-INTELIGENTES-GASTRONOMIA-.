@@ -1,4 +1,4 @@
-# 🏛️ CabZ.IA - Entornos Inteligentes (HORECA)
+# 🏛️ CabZ.IA - Entornos Inteligentes (GASTRONOMIA)
 
 Bienvenido al repositorio oficial de **CabZ.IA**, un ecosistema operativo modular y escalable (Micro-SaaS) diseñado exclusivamente para la modernización del sector gastronómico (Hoteles, Restaurantes y Cafeterías)[cite: 6]. 
 
